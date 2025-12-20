@@ -1,1 +1,1 @@
-# install_docker
+sudo sh install.sh
